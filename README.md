@@ -1,11 +1,13 @@
 <div align="center">
-  <a href="https://github.com/sanmaomashi/Salute_DL">
-    <img src="https://raw.githubusercontent.com/sanmaomashi/Salute_DL/main/img/1.jpg" height="400">
+  <a href="https://github.com/sanmaomashi/Salute_DeepLearning">
+    <img src="https://raw.githubusercontent.com/sanmaomashi/Salute_DeepLearning/main/img/1.jpg" height="400">
   </a>
-  <h1>DL - Beginner Runaway | 🚴‍♂️</h1>
-  <img src="https://img.shields.io/github/repo-size/sanmaomashi/Salute_DL.svg?label=Repo%20size&style=flat-square" height="20">
+  <h1>Deep Learning - Beginner Runaway | 🚴‍♂️</h1>
+  <img src="https://img.shields.io/github/repo-size/sanmaomashi/Salute_DeepLearning.svg?label=Repo%20size&style=flat-square" height="20">
   <img src="https://img.shields.io/badge/License-Apache%202.0-purple" data-origin="https://img.shields.io/badge/License-Apache%202.0-blue" alt="">
 </div>
+
+
 
 
 
@@ -27,11 +29,11 @@ Deep Learning 从入门到跑路
 
 ## 在线阅读
 
-- https://sanmaomashi.github.io/Salute_DL/
+- https://sanmaomashi.github.io/Salute_DeepLearning/
 
 
 
 ## License
 
-Licensed under the [Apache-2.0](http://choosealicense.com/licenses/apache/) © Salute_DL
+Licensed under the [Apache-2.0](http://choosealicense.com/licenses/apache/) © Salute_DeepLearning
 
